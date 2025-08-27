@@ -1,0 +1,10 @@
+# Giới thiệu
+Đây là đoạn giới thiệu.
+
+![Ảnh bonus](images/bonus1.jpg)
+
+## Phân tích
+Nội dung phân tích tiếp theo.
+
+### Chi tiết
+Các chi tiết nhỏ hơn...

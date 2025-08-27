@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Friendshoring",
+    "date": "2025-04-05",
+    "content": "Xu hướng dịch chuyển chuỗi cung ứng ra khỏi Trung Quốc...",
+    "image": "images/dictionary/dictionary_1.jpg",
+    "link": "posts/friendshoring.html"
+  },
+  {
+    "title": "Ngoại giao số trong kỷ nguyên AI",
+    "date": "2025-03-28",
+    "content": "Trí tuệ nhân tạo đang thay đổi cách các quốc gia tiến hành đối ngoại...",
+    "image": "images/dictionary/dictionary_2.jpg",
+    "link": "posts/ngoai-giao-so.html"
+  },
+  {
+    "title": "Văn hóa đọc trong sinh viên DAV",
+    "date": "2025-03-15",
+    "content": "Khảo sát cho thấy xu hướng đọc sách của sinh viên DAV đang thay đổi...",
+    "image": "images/dictionary/dictionary_3.jpg",
+    "link": "posts/van-hoa-doc.html"
+  }
+]

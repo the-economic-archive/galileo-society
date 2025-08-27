@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Friendshoring",
+    "date": "2025-04-05",
+    "content": "Xu hướng dịch chuyển chuỗi cung ứng ra khỏi Trung Quốc...",
+    "image": "images/dictionary/dictionary_1.jpg",
+    "link": "posts/friendshoring.html"
+  },
+  
+  {
+    "title": "TÌNH HÌNH CHÍNH TRỊ BẤT ỔN Ở CHÂU ÂU NĂM 2024: NGUYÊN NHÂN VÀ THÁCH THỨC ",
+    "date": "2025-01-17",
+    "content": "",
+    "image": "images/perspective/eu_unstable.jpg",
+    "link": "article/perspective/eu_unstable.html"
+  },
+  
+  {
+    "title": "HÌNH THÁI TIÊU HAO TRONG XUNG ĐỘT NGA - UKRAINE",
+    "date": "2025-07-13",
+    "content": "Góc nhìn về hình thái tiêu hao trong xung đột Nga - Ukraine",
+    "image": "images/perspective/attritional_warfare.jpg",
+    "link": "article/perspective/attritional_warfare.html"
+  },
+  
+  {
+    "title": "SỰ TRỖI DẬY CỦA CHỦ NGHĨA BẢO HỘ MẬU DỊCH - ĐÁNH GIÁ CHÍNH SÁCH THƯƠNG MẠI CỦA TỔNG THỐNG MỸ DONALD TRUMP THỜI KỲ 2.0",
+    "date": "2025-03-14",
+    "content": "Góc nhìn về chủ nghĩa bảo hộ mậu dịch",
+    "image": "images/perspective/trump_protectionism.jpg",
+    "link": "article/perspective/trump_protectionism.html"
+  },
+  
+  {
+    "title": "CHÍNH SÁCH ĐỐI NGOẠI TRUMP 2.0: KỶ NGUYÊN MỚI” CỦA NƯỚC MỸ VÀ HÀM Ý CHO VIỆT NAM",
+    "date": "2025-01-25",
+    "content": "Góc nhìn về chính sách đối ngoại của chính quyền Trump 2.0",
+    "image": "images/perspective/trump_no_2.jpg",
+    "link": "article/perspective/trump_no_2.html"
+  },
+  
+  {
+    "title": "CHỦ QUYỀN SỐ TRONG BỐI CẢNH CẠNH TRANH CÔNG NGHỆ TOÀN CẦU: CÁCH TIẾP CẬN CỦA CÁC QUỐC GIA VÀ THỰC TIỄN TẠI VIỆT NAM",
+    "date": "2025-07-13",
+    "content": "Góc nhìn về chủ quyền số",
+    "image": "images/perspective/digital_sovereignty.jpg",
+    "link": "article/perspective/digital_sovereignty.html"
+  },
+
+    {
+    "title": "XUNG ĐỘT ẤN ĐỘ - PAKISTAN THÁNG 5/2025: NGUYÊN NHÂN, DIỄN BIẾN VÀ TRIỂN VỌNG",
+    "date": "2025-05-11",
+    "content": "Góc nhìn về xung đột Pakistan - Ấn Độ",
+    "image": "images/perspective/pakin_conflict.jpg",
+    "link": "article/perspective/pakin_conflict.html"
+  }
+]
+
